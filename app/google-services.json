@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518586580385",
+    "project_id": "hiiapp-73b78",
+    "storage_bucket": "hiiapp-73b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518586580385:android:15d0468d0b30f49b42dfe0",
+        "android_client_info": {
+          "package_name": "com.android.hiiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518586580385-f5eae4cao45m56rkogo3b51cft9ilcuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPBu_JvHsSkqoq2u3Le1EAbJCqgg-cGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518586580385-f5eae4cao45m56rkogo3b51cft9ilcuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
